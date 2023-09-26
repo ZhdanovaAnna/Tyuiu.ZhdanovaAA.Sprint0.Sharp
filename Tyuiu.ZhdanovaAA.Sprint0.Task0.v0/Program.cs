@@ -11,5 +11,5 @@ namespace Tyuiu.ZhdanovaAA.Sprint0.Task0.v0
         static void Main(string[] args)
         {
         }
-    }
+    } 
 }
